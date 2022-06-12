@@ -1,0 +1,39 @@
+body{
+    background-color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: darkseagreen;
+    width: 180px;
+    position: absolute;
+    left: 20%;
+    top: 100px;
+}
+.paragraph{
+    font-family: monospace;
+    position: absolute;
+    top: 190px;
+    left: 28%;
+    text-align: center;
+}
+#section1{
+    color:lightseagreen;
+    width: 20px;
+}
+#section2{
+    color:mediumaquamarine;
+    width: 40px;
+    line-height: 20px;
+}
+#section3{
+    color:mediumturquoise;
+    width: 30px;
+}
+#section4{
+    color:mediumseagreen;
+    width: 20px;
+    line-height: 30px;
+}
